@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\webtiendavinilos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\webtiendavinilos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\models\\vinilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\models\\vinilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|c:\\users\\lvved\\onedrive\\escritorio\\webtiendavinilos\\webtiendavinilos\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1D46299-1A9F-451C-9AB5-75EC35EAAC01}|webTiendaVinilos\\webTiendaVinilos.csproj|solutionrelative:webtiendavinilos\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Program.cs",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\Program.cs",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Program.cs",
+              "RelativeToolTip": "webTiendaVinilos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:05:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vinilo.cs",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Models\\Vinilo.cs",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\Models\\Vinilo.cs",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Models\\Vinilo.cs",
+              "RelativeToolTip": "webTiendaVinilos\\Models\\Vinilo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T22:53:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Data\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\Data\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Data\\DataBaseHelper.cs",
+              "RelativeToolTip": "webTiendaVinilos\\Data\\DataBaseHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T22:12:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "webTiendaVinilos",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\webTiendaVinilos.csproj",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\webTiendaVinilos.csproj",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\webTiendaVinilos.csproj",
+              "RelativeToolTip": "webTiendaVinilos\\webTiendaVinilos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T22:11:21.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\appsettings.Development.json",
+              "RelativeToolTip": "webTiendaVinilos\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T20:56:26.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\appsettings.json",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\appsettings.json",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\appsettings.json",
+              "RelativeToolTip": "webTiendaVinilos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T20:55:56.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "RelativeToolTip": "webTiendaVinilos\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-06-01T20:55:47.953Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Pages\\Index.cshtml",
+              "RelativeToolTip": "webTiendaVinilos\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T18:59:07.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\wwwroot\\css\\estilos.css",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\wwwroot\\css\\estilos.css",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\wwwroot\\css\\estilos.css",
+              "RelativeToolTip": "webTiendaVinilos\\wwwroot\\css\\estilos.css",
+              "ViewState": "AgIAAEEAAAAAAAAAAIBJwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-26T18:27:38.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "webTiendaVinilos\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lvved\\OneDrive\\Escritorio\\webTiendaVinilos\\webTiendaVinilos\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "webTiendaVinilos\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAIBJwCoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T18:18:11.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

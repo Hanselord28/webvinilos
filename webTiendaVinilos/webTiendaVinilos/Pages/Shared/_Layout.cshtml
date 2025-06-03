@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Groove & Soul Vinyl Store</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap y FontAwesome -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+
+    <!-- Tu CSS personalizado -->
+    <link rel="stylesheet" href="~/css/estilos.css" />
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="/">
+                <i class="fas fa-record-vinyl me-2"></i> Groove & Soul
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="/productos">Productos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/retiro-despacho">Retiro y Despacho</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/nosotros">Sobre Nosotros</a></li>
+                </ul>
+                <div class="d-flex align-items-center">
+                    <a class="nav-link text-light me-3" href="/carrito">🛒 Carrito (<span id="carrito-count">0</span>)</a>
+                    <a class="btn btn-outline-light btn-sm d-flex align-items-center" href="/login">
+                        <i class="fas fa-user me-2"></i> Iniciar Sesión
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    
+
+        <!-- CONTENIDO DINÁMICO -->
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="footer-custom mt-auto py-4">
+        <div class="container text-center text-md-start">
+            <div class="row">
+                <!-- Sobre la tienda -->
+                <div class="col-md-4 mb-3">
+                    <h5 class="text-light"><i class="fas fa-music"></i> Groove & Soul</h5>
+                    <p class="footer-text">Vinilos con alma, sonido puro. Desde clásicos hasta joyas ocultas.</p>
+                </div>
+
+                <!-- Navegación -->
+                <div class="col-md-4 mb-3">
+                    <h6 class="text-light">Secciones</h6>
+                    <ul class="list-unstyled">
+                        <li><a href="/productos" class="footer-link">Catálogo</a></li>
+                        <li><a href="/retiro-despacho" class="footer-link">Envíos</a></li>
+                        <li><a href="/contacto" class="footer-link">Contacto</a></li>
+                        <li><a href="/nosotros" class="footer-link">Sobre Nosotros</a></li>
+                    </ul>
+                </div>
+
+                <!-- Redes Sociales -->
+                <div class="col-md-4 mb-3">
+                    <h6 class="text-light">Síguenos</h6>
+                    <div class="social-icons">
+                        <a href="#" class="me-3" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="me-3" title="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="me-3" title="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="me-3" title="Spotify"><i class="fab fa-spotify"></i></a>
+                        <a href="#" title="YouTube"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="text-muted" />
+
+            <div class="text-center footer-bottom">
+                &copy; @DateTime.Now.Year Groove & Soul Vinyl Store. Todos los derechos reservados.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

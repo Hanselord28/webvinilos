@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webTiendaVinilos.props" />
+</Project>

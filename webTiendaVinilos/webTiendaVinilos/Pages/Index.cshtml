@@ -1,0 +1,194 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!-- CARRUSEL OFERTAS -->
+<div class="container mt-4">
+    <div id="carouselOfertas" class="carousel slide mb-5" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/img/oferta1.png" class="d-block w-100 rounded" alt="Oferta 1">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/oferta2.png" class="d-block w-100 rounded" alt="Oferta 2">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/oferta3.png" class="d-block w-100 rounded" alt="Oferta 3">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/oferta4.png" class="d-block w-100 rounded" alt="Oferta 4">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/oferta5.png" class="d-block w-100 rounded" alt="Oferta 5">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselOfertas" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+            <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselOfertas" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+            <span class="visually-hidden">Siguiente</span>
+        </button>
+    </div>
+
+
+    <!-- Funk / Soul -->
+    <div class="mb-4">
+        <h3 class="text-muted">Funk / Soul</h3>
+        <div class="row row-cols-1 row-cols-md-5 g-4">
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/vinilo2.jpg" class="card-img-top" alt="What's Going On">
+                    <div class="card-body">
+                        <h5 class="card-title">What's Going On</h5>
+                        <p class="card-text text-muted">Marvin Gaye (1971)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/vinilo5.jpg" class="card-img-top" alt="Superfly">
+                    <div class="card-body">
+                        <h5 class="card-title">Superfly</h5>
+                        <p class="card-text text-muted">Curtis Mayfield (1972)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/vinilo1.jpg" class="card-img-top" alt="Songs in the Key of Life">
+                    <div class="card-body">
+                        <h5 class="card-title">Songs in the Key of Life</h5>
+                        <p class="card-text text-muted">Stevie Wonder (1976)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/vinilo3.jpg" class="card-img-top" alt="Stand!">
+                    <div class="card-body">
+                        <h5 class="card-title">Stand!</h5>
+                        <p class="card-text text-muted">Sly & The Family Stone (1969)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/vinilo4.jpg" class="card-img-top" alt="Maggot Brain">
+                    <div class="card-body">
+                        <h5 class="card-title">Maggot Brain</h5>
+                        <p class="card-text text-muted">Funkadelic (1971)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tornamesas destacadas -->
+    <section class="mb-5">
+        <h2 class="text-center mb-4">Tornamesas destacadas</h2>
+        <div class="row row-cols-1 row-cols-md-5 g-4">
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/tornamesas/at_lp120x.jpg" class="card-img-top" alt="Audio-Technica AT-LP120XUSB">
+                    <div class="card-body">
+                        <h5 class="card-title">AT-LP120XUSB</h5>
+                        <p class="card-text text-muted">Audio-Technica – Profesional y versátil</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/tornamesas/pro_ject.jpg" class="card-img-top" alt="Pro-Ject Debut Carbon EVO">
+                    <div class="card-body">
+                        <h5 class="card-title">Debut Carbon EVO</h5>
+                        <p class="card-text text-muted">Pro-Ject – Fidelidad premium</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/tornamesas/teac.jpg" class="card-img-top" alt="TEAC TN-300">
+                    <div class="card-body">
+                        <h5 class="card-title">TN-300</h5>
+                        <p class="card-text text-muted">TEAC – Diseño clásico con USB</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/tornamesas/fluance_rt85.jpg" class="card-img-top" alt="Fluance RT85">
+                    <div class="card-body">
+                        <h5 class="card-title">RT85</h5>
+                        <p class="card-text text-muted">Fluance – Alto rendimiento y estilo</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/tornamesas/sony_pslx310bt.jpg" class="card-img-top" alt="Sony PS-LX310BT">
+                    <div class="card-body">
+                        <h5 class="card-title">PS-LX310BT</h5>
+                        <p class="card-text text-muted">Sony – Inalámbrica y fácil de usar</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Merchandising exclusivo -->
+    <section class="mb-5">
+        <h2 class="text-center mb-4">Merchandising exclusivo</h2>
+        <div class="row row-cols-1 row-cols-md-5 g-4">
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/merch/polera_beatles.jpg" class="card-img-top" alt="Polera The Beatles">
+                    <div class="card-body">
+                        <h5 class="card-title">Polera The Beatles</h5>
+                        <p class="card-text text-muted">100% algodón, estilo retro</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/merch/taza_vinilos.jpg" class="card-img-top" alt="Taza Vinilos Forever">
+                    <div class="card-body">
+                        <h5 class="card-title">Taza Vinilos Forever</h5>
+                        <p class="card-text text-muted">Cerámica resistente, diseño exclusivo</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/merch/poster_pinkfloyd.jpg" class="card-img-top" alt="Póster Pink Floyd">
+                    <div class="card-body">
+                        <h5 class="card-title">Póster Pink Floyd</h5>
+                        <p class="card-text text-muted">Impresión HD, tamaño A2</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/merch/bolso_lp.jpg" class="card-img-top" alt="Bolso para LPs">
+                    <div class="card-body">
+                        <h5 class="card-title">Bolso para LPs</h5>
+                        <p class="card-text text-muted">Espacio para 30 vinilos, con correa ajustable</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/img/merch/gorro_soul.jpg" class="card-img-top" alt="Gorro Groove & Soul">
+                    <div class="card-body">
+                        <h5 class="card-title">Gorro Groove & Soul</h5>
+                        <p class="card-text text-muted">Acrílico suave, logo bordado</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
